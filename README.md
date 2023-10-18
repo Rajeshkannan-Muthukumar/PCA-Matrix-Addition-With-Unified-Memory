@@ -449,8 +449,10 @@ int main(int argc, char **argv)
 ```
 ## Output:
 ### With memsets
+![Ex4-1-cropped](https://github.com/Rajeshkannan-Muthukumar/PCA-Matrix-Addition-With-Unified-Memory/assets/93901857/2ea7394e-bf0e-4676-a872-3d17a09ce4cb)
 
 ### Without memsets
+![Ex4-2-cropped](https://github.com/Rajeshkannan-Muthukumar/PCA-Matrix-Addition-With-Unified-Memory/assets/93901857/7eed7352-d8ab-4d95-a44f-5c0a47c19383)
 
 ## Result:
 Thus Matrix addition with unified memory is done and its performance with nvprof is checked.
